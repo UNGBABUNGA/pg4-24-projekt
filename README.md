@@ -9,6 +9,8 @@ Jen pro cvičné učely.
 2. dasdasdas
 3. asdasdasd
 4. dasdadads
-'''js
+
+
+``` js
 alert()
-'''
+```
